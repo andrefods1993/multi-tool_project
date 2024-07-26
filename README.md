@@ -1,8 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Collision.webp" alt="Collision" width="40" height="40" /> Multi Tool </h1>
-
-<div align="center">
-<img src="" width="480" />
-</div>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Collision.webp" alt="Collision" width="40" height="40" /> Multi Tool <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Collision.webp" alt="Collision" width="40" height="40" /></h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
