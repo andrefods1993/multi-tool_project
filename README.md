@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Collision.webp" alt="Collision" width="40" height="40" /> Multi Tool <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Collision.webp" alt="Collision" width="40" height="40" /></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Collision.webp" alt="Collision" width="40" height="40" /> Multi Tool </h1>
 
 <div align="center">
 <img src="" width="480" />
@@ -75,5 +75,4 @@ Este projeto é licenciado sobre a licença [MIT License](https://opensource.org
 
 [@andrefods1993](https://github.com/andrefods1993)
 
-<span style="font-size: 10px;"> [ReadME Wizard](https://github.com/andrefods1993) </span># multi-tool_project
-# multi-tool_project
+<span style="font-size: 10px;"> [ReadME Wizard](https://github.com/andrefods1993) </span>
